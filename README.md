@@ -1,4 +1,4 @@
-## Olá, me chamo MIguel👽
+## Olá, me chamo Miguel👽
 
 <div>
   <a href="https://github.com/miguelsousaw">
