@@ -1,4 +1,4 @@
-## Olá, me chamo Miguel👽
+## Olá, meu nome é Miguel👽
 Desenvolvedor Front-end, cursando Técnico em Desenvolvimento de Sistemas. Possuo muita curiosidade ao aprender novas tecnologias, buscando me aperfeiçoar e dominar as habilidades necessárias para o melhor desenvolvimento do time!
 
 <div>
