@@ -1,5 +1,5 @@
-## Olá, eu sou o Miguel👽
-Desenvolvedor Front-end, cursando Técnico em Desenvolvimento de Sistemas. Possuo muita curiosidade ao aprender novas tecnologias, buscando me aperfeiçoar e dominar as habilidades necessárias para o mercado!
+## Olá, me chamo Miguel 💻
+Seja bem vindo ao meu perfil, aqui você vai acompanhar todo material e projeto que utilizo a nível de estudo, aplicação e curiosidade. Atualmente estou cursando Engenharia de Computação pelo Intituto Federal de Inovação e Tecnologia do Ceará (IFCE) e as principais tecnologias que utilizo, como você pode visualizar a frente, envolve o ecossistema web. Fique a vontade para enviar feedbakcs pelos canais de comunicação e colaborar comigo. Prazer em ter você aqui!
 
 <div>
   <a href="https://github.com/miguelsousaw">
@@ -21,6 +21,6 @@ Desenvolvedor Front-end, cursando Técnico em Desenvolvimento de Sistemas. Possu
 ##
  
 <div> 
-  <a href="https://instagram.com/miguelsousx_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/miguelsx.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:miguels.sync@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
