@@ -1,3 +1,18 @@
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:4B2E83,100:2575FC&height=180&section=header&text=Miguel%20de%20Sousa&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+  <h2 align="center">Desenvolvedor Full Stack</h2>
+
+  <h3 align="center">Engenharia de Computação</h3>
+
+  <p align="center">
+    Typescript • Next • React • Groovy • PostgreSQL • Git
+  </p>
+
+</div>
+
 ## Olá, me chamo Miguel 💻
 Seja bem vindo ao meu perfil, aqui você vai acompanhar todo material e projeto que utilizo a nível de estudo, aplicação e curiosidade. Atualmente estou cursando Engenharia de Computação pelo Intituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) e as principais tecnologias que utilizo, como você pode visualizar a frente, envolve o ecossistema web. Fique a vontade para enviar feedbakcs pelos canais de comunicação e colaborar comigo. Prazer em ter você aqui!
 
