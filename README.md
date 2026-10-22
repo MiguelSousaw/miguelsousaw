@@ -1,5 +1,5 @@
 ## Olá, me chamo Miguel 💻
-Seja bem vindo ao meu perfil, aqui você vai acompanhar todo material e projeto que utilizo a nível de estudo, aplicação e curiosidade. Atualmente estou cursando Engenharia de Computação pelo Intituto Federal de Inovação e Tecnologia do Ceará (IFCE) e as principais tecnologias que utilizo, como você pode visualizar a frente, envolve o ecossistema web. Fique a vontade para enviar feedbakcs pelos canais de comunicação e colaborar comigo. Prazer em ter você aqui!
+Seja bem vindo ao meu perfil, aqui você vai acompanhar todo material e projeto que utilizo a nível de estudo, aplicação e curiosidade. Atualmente estou cursando Engenharia de Computação pelo Intituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) e as principais tecnologias que utilizo, como você pode visualizar a frente, envolve o ecossistema web. Fique a vontade para enviar feedbakcs pelos canais de comunicação e colaborar comigo. Prazer em ter você aqui!
 
 <div>
   <a href="https://github.com/miguelsousaw">
