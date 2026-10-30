@@ -21,12 +21,12 @@ Seja bem vindo ao meu perfil, aqui você vai acompanhar todo material e projeto 
   <a href="https://github.com/miguelsousaw">
     <img
       height="180em"
-      src="https://github-stats-extended.vercel.app/api?username=miguelsousaw&show_icons=true&theme=prussian"
+      src="https://github-stats-extended.vercel.app/api?username=miguelsousaw&show_icons=true&theme=dracula"
     />
   </a>
   <img
     height="180em"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=miguelsousaw&layout=compact&theme=prussian"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=miguelsousaw&layout=compact&theme=dracula"
   />
 </div>
 
@@ -45,13 +45,13 @@ Seja bem vindo ao meu perfil, aqui você vai acompanhar todo material e projeto 
 ##
  
 <div> 
-  <a href="https://instagram.com/miguelsx.dev" target="_blank">
+  <a href="https://instagram.com/miguelsx.dev">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href = "mailto:miguels.sync@gmail.com" target="_blank">
+  <a href = "mailto:miguels.sync@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a  href = "https://www.linkedin.com/in/miguelsousadev" target="_blank" >
+  <a  href = "https://www.linkedin.com/in/miguelsousadev">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
