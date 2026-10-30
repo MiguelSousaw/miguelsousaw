@@ -16,11 +16,21 @@
 ## Olá, me chamo Miguel 💻
 Seja bem vindo ao meu perfil, aqui você vai acompanhar todo material e projeto que utilizo a nível de estudo, aplicação e curiosidade. Atualmente estou cursando Engenharia de Computação pelo Intituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) e as principais tecnologias que utilizo, como você pode visualizar a frente, envolve o ecossistema web. Fique a vontade para enviar feedbakcs pelos canais de comunicação e colaborar comigo. Prazer em ter você aqui!
 
-<div>
+
+<div align="center">
   <a href="https://github.com/miguelsousaw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelsousaw&show_icons=true&theme=prussian"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsousaw&layout=compact&theme=prussian"/>
+    <img
+      height="180em"
+      src="https://github-stats-extended.vercel.app/api?username=miguelsousaw&show_icons=true&theme=prussian"
+    />
+  </a>
+
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=miguelsousaw&layout=compact&theme=prussian"
+  />
 </div>
+
 
 
 <div style="display: inline_block"><br>
